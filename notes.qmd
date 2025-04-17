@@ -1,0 +1,9 @@
+---
+title: "git-ignore-cleanup"
+format: html
+editor: visual
+---
+
+```{r}
+summary(mtcars)
+```
